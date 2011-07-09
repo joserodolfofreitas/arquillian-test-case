@@ -1,0 +1,6 @@
+This code was presented as an example on an Arquillian presentation in TDC2011 Sao Paulo, Brazil.
+
+to run:
+mvn test -Pjbossas-remote-6
+or
+mvn test -Pglassfish-embedded-3
